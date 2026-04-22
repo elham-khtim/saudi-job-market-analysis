@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Saudi Job Market Analysis Dashboard | Business Insights</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {font-family: Arial; margin:0; background:#f4f7fb; color:#102a43;}
+.container {max-width:1100px; margin:auto; padding:20px;}
+h1 {font-size:32px;}
+.subtitle {color:#486581;}
+.cards {display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:15px;}
+.card {background:white; padding:20px; border-radius:12px;}
+.chart-container {display:grid; grid-template-columns:repeat(auto-fit,minmax(400px,1fr)); gap:20px;}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>Saudi Job Market Analysis Dashboard</h1>
+<p class="subtitle">Portfolio Project | Data Analysis • Visualization • Business Insights</p>
+
+<div class="cards">
+<div class="card"><h2>420</h2><p>Job Records</p></div>
+<div class="card"><h2>Data Cleaning</h2><p>Top Skill</p></div>
+<div class="card"><h2>Khobar</h2><p>Highest Salary City</p></div>
+<div class="card"><h2>Data Scientist</h2><p>Top Role</p></div>
+</div>
+
+<div class="chart-container">
+<canvas id="c1"></canvas>
+<canvas id="c2"></canvas>
+<canvas id="c3"></canvas>
+<canvas id="c4"></canvas>
+</div>
+
+</div>
+
+<script>
+new Chart(c1,{type:'bar',data:{labels:["Excel","SQL","Python"],datasets:[{data:[400,380,300]}]}})
+new Chart(c2,{type:'bar',data:{labels:["Riyadh","Khobar"],datasets:[{data:[14000,14500]}]}})
+new Chart(c3,{type:'bar',data:{labels:["Data Scientist","Analyst"],datasets:[{data:[16000,14000]}]}})
+new Chart(c4,{type:'bar',data:{labels:["Riyadh","Jeddah"],datasets:[{data:[140,90]}]}})
+</script>
+
+</body>
+</html>
