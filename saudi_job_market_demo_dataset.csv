@@ -1,0 +1,421 @@
+job_id,job_title,city,industry,company_type,experience_level,education_level,monthly_salary_sar,skills,is_remote_friendly
+SJM-001,Data Scientist,Jeddah,Retail,Enterprise,Entry-Level,Master's,15300,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-002,Data Analyst,Jeddah,Retail,Enterprise,Junior,Master's,11500,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-003,Data Analyst,Madinah,Retail,Enterprise,Mid-Level,Bachelor's,11600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Tableau",True
+SJM-004,Business Analyst,Riyadh,Retail,Enterprise,Mid-Level,Master's,16400,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-005,Business Analyst,Riyadh,Retail,Mid-size,Entry-Level,Bachelor's,11600,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-006,BI Analyst,Riyadh,Energy,Enterprise,Junior,Bachelor's,16700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-007,Data Analyst,Khobar,Government,Enterprise,Mid-Level,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-008,Data Analyst,Dammam,Government,Enterprise,Mid-Level,Bachelor's,14600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-009,Data Analyst,Jeddah,Retail,Mid-size,Junior,Master's,10600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-010,Data Analyst,Dammam,Technology,Enterprise,Junior,Bachelor's,12300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-011,Data Analyst,Khobar,Energy,Mid-size,Entry-Level,Bachelor's,11900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-012,Business Analyst,Riyadh,Government,Mid-size,Entry-Level,Bachelor's,12900,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",False
+SJM-013,BI Analyst,Jeddah,Energy,Startup,Mid-Level,Bachelor's,16400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-014,Data Analyst,Madinah,Banking,Enterprise,Mid-Level,Bachelor's,15700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-015,Data Analyst,Jeddah,Energy,Mid-size,Junior,Bachelor's,12100,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-016,BI Analyst,Jeddah,Government,Enterprise,Entry-Level,Master's,13700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-017,Business Analyst,Jeddah,Retail,Enterprise,Junior,Bachelor's,12100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-018,Data Analyst,Madinah,Technology,Startup,Junior,Bachelor's,10300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-019,Data Scientist,Riyadh,Government,Enterprise,Entry-Level,Bachelor's,17800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-020,Data Scientist,Riyadh,Retail,Enterprise,Junior,Bachelor's,16100,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-021,Data Analyst,Jeddah,Banking,Enterprise,Mid-Level,Bachelor's,17200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-022,BI Analyst,Jeddah,Telecom,Enterprise,Entry-Level,Master's,15600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-023,Data Analyst,Riyadh,Banking,Enterprise,Mid-Level,Bachelor's,17700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-024,Business Analyst,Riyadh,Telecom,Mid-size,Entry-Level,Bachelor's,10900,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-025,BI Analyst,Dammam,Healthcare,Enterprise,Mid-Level,Bachelor's,15400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-026,Business Analyst,Dammam,Technology,Enterprise,Junior,Master's,14300,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Statistics",True
+SJM-027,Business Analyst,Makkah,Government,Enterprise,Mid-Level,Bachelor's,13800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-028,Business Analyst,Dammam,Energy,Enterprise,Junior,Bachelor's,15500,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-029,Reporting Analyst,Jeddah,Healthcare,Mid-size,Entry-Level,Bachelor's,9500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL",False
+SJM-030,Data Analyst,Riyadh,Government,Enterprise,Entry-Level,Bachelor's,10600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-031,Data Analyst,Riyadh,Energy,Enterprise,Junior,Bachelor's,13900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Statistics, Tableau",True
+SJM-032,Data Analyst,Riyadh,Telecom,Mid-size,Junior,Bachelor's,11800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-033,Data Analyst,Makkah,Government,Enterprise,Mid-Level,Master's,14400,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-034,Data Scientist,Riyadh,Energy,Mid-size,Junior,Master's,19800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-035,Data Analyst,Riyadh,Retail,Mid-size,Junior,Bachelor's,11900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-036,Data Analyst,Dammam,Banking,Enterprise,Mid-Level,Bachelor's,17200,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-037,Data Scientist,Jeddah,Retail,Enterprise,Junior,Bachelor's,16200,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-038,Data Analyst,Dammam,Banking,Startup,Mid-Level,Bachelor's,13000,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-039,BI Analyst,Khobar,Telecom,Enterprise,Entry-Level,Bachelor's,13700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-040,BI Analyst,Jeddah,Technology,Mid-size,Mid-Level,Bachelor's,14700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-041,Data Analyst,Riyadh,Energy,Enterprise,Junior,Bachelor's,15300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-042,Data Scientist,Riyadh,Government,Mid-size,Junior,Bachelor's,17400,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-043,Business Analyst,Khobar,Banking,Enterprise,Mid-Level,Bachelor's,19100,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-044,Reporting Analyst,Riyadh,Healthcare,Enterprise,Junior,Bachelor's,11900,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Statistics",False
+SJM-045,Data Scientist,Riyadh,Government,Mid-size,Junior,Bachelor's,16800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-046,Reporting Analyst,Madinah,Telecom,Mid-size,Mid-Level,Bachelor's,11900,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-047,Reporting Analyst,Riyadh,Government,Mid-size,Entry-Level,Bachelor's,10500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL",True
+SJM-048,Data Analyst,Riyadh,Telecom,Enterprise,Mid-Level,Bachelor's,16800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-049,Data Scientist,Dammam,Energy,Startup,Entry-Level,Bachelor's,14500,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-050,BI Analyst,Madinah,Retail,Enterprise,Entry-Level,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-051,Data Analyst,Dammam,Government,Startup,Mid-Level,Bachelor's,11900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-052,Reporting Analyst,Jeddah,Retail,Enterprise,Junior,Bachelor's,9400,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Statistics",False
+SJM-053,BI Analyst,Makkah,Banking,Mid-size,Junior,Bachelor's,13300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-054,Data Analyst,Jeddah,Technology,Enterprise,Junior,Bachelor's,11800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-055,Data Analyst,Riyadh,Healthcare,Mid-size,Entry-Level,Bachelor's,10300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-056,BI Analyst,Riyadh,Retail,Enterprise,Junior,Bachelor's,15900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-057,Data Scientist,Madinah,Technology,Mid-size,Junior,Bachelor's,15300,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-058,Business Analyst,Riyadh,Technology,Enterprise,Entry-Level,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-059,Data Analyst,Khobar,Telecom,Enterprise,Mid-Level,Bachelor's,14300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-060,Reporting Analyst,Makkah,Government,Enterprise,Junior,Bachelor's,10100,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-061,Data Analyst,Riyadh,Government,Mid-size,Entry-Level,Bachelor's,10000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-062,Reporting Analyst,Riyadh,Retail,Mid-size,Entry-Level,Bachelor's,9100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-063,Reporting Analyst,Riyadh,Government,Mid-size,Junior,Bachelor's,9300,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-064,Data Analyst,Madinah,Energy,Enterprise,Junior,Bachelor's,11300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-065,Data Analyst,Madinah,Technology,Mid-size,Mid-Level,Master's,13600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-066,Reporting Analyst,Jeddah,Government,Mid-size,Entry-Level,Bachelor's,8800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Machine Learning, SQL",False
+SJM-067,Data Analyst,Riyadh,Government,Mid-size,Junior,Bachelor's,12200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-068,BI Analyst,Makkah,Technology,Enterprise,Junior,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-069,Data Scientist,Madinah,Technology,Enterprise,Junior,Bachelor's,16400,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-070,Reporting Analyst,Riyadh,Energy,Enterprise,Junior,Bachelor's,13200,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-071,Reporting Analyst,Jeddah,Healthcare,Mid-size,Mid-Level,Bachelor's,12500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL, Statistics",False
+SJM-072,Data Analyst,Riyadh,Telecom,Enterprise,Mid-Level,Master's,17700,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-073,BI Analyst,Madinah,Energy,Startup,Junior,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-074,BI Analyst,Riyadh,Healthcare,Mid-size,Mid-Level,Bachelor's,15600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-075,Reporting Analyst,Riyadh,Government,Startup,Junior,Bachelor's,11100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-076,BI Analyst,Dammam,Technology,Mid-size,Mid-Level,Bachelor's,17400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-077,Data Analyst,Riyadh,Healthcare,Enterprise,Junior,Bachelor's,12000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-078,Reporting Analyst,Riyadh,Energy,Mid-size,Mid-Level,Bachelor's,15000,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-079,Data Analyst,Riyadh,Government,Startup,Mid-Level,Bachelor's,13800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-080,Business Analyst,Jeddah,Telecom,Enterprise,Mid-Level,Master's,18600,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-081,BI Analyst,Makkah,Energy,Mid-size,Entry-Level,Master's,12100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-082,Data Analyst,Jeddah,Technology,Mid-size,Junior,Bachelor's,12100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-083,BI Analyst,Riyadh,Telecom,Mid-size,Junior,Bachelor's,13700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-084,Business Analyst,Jeddah,Technology,Mid-size,Junior,Bachelor's,11500,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-085,BI Analyst,Riyadh,Healthcare,Mid-size,Mid-Level,Bachelor's,16200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-086,Data Analyst,Riyadh,Technology,Startup,Entry-Level,Bachelor's,9300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-087,BI Analyst,Dammam,Technology,Enterprise,Entry-Level,Master's,14700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-088,Reporting Analyst,Riyadh,Banking,Mid-size,Junior,Master's,14100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL",False
+SJM-089,Data Analyst,Jeddah,Government,Startup,Entry-Level,Bachelor's,9200,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-090,BI Analyst,Khobar,Technology,Mid-size,Mid-Level,Bachelor's,16800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-091,Data Analyst,Jeddah,Technology,Startup,Entry-Level,Master's,11200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-092,Reporting Analyst,Jeddah,Government,Enterprise,Entry-Level,Bachelor's,10500,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Statistics",False
+SJM-093,Data Analyst,Dammam,Healthcare,Mid-size,Mid-Level,Bachelor's,11900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-094,BI Analyst,Khobar,Energy,Enterprise,Mid-Level,Bachelor's,18500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-095,Business Analyst,Jeddah,Retail,Startup,Mid-Level,Bachelor's,13100,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-096,Data Analyst,Riyadh,Government,Enterprise,Mid-Level,Bachelor's,13800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-097,Data Analyst,Jeddah,Technology,Enterprise,Mid-Level,Bachelor's,15200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-098,Data Scientist,Riyadh,Technology,Mid-size,Mid-Level,Bachelor's,21100,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-099,Reporting Analyst,Jeddah,Telecom,Mid-size,Junior,Bachelor's,10800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-100,Data Analyst,Jeddah,Government,Mid-size,Entry-Level,Bachelor's,10700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-101,Data Analyst,Khobar,Government,Mid-size,Entry-Level,Bachelor's,9800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-102,Data Analyst,Jeddah,Retail,Enterprise,Junior,Bachelor's,11300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-103,Data Scientist,Madinah,Energy,Enterprise,Mid-Level,Master's,20500,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-104,Data Analyst,Dammam,Healthcare,Enterprise,Junior,Bachelor's,11700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-105,Reporting Analyst,Dammam,Banking,Enterprise,Junior,Bachelor's,12400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-106,Reporting Analyst,Riyadh,Energy,Enterprise,Entry-Level,Bachelor's,11600,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-107,Business Analyst,Riyadh,Energy,Enterprise,Mid-Level,Master's,21300,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",True
+SJM-108,Data Analyst,Makkah,Retail,Enterprise,Mid-Level,Bachelor's,12100,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-109,Business Analyst,Riyadh,Healthcare,Enterprise,Junior,Master's,15300,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-110,Data Analyst,Riyadh,Telecom,Startup,Mid-Level,Bachelor's,14500,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Tableau",False
+SJM-111,Data Analyst,Makkah,Retail,Enterprise,Mid-Level,Bachelor's,12600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-112,Data Analyst,Jeddah,Technology,Enterprise,Mid-Level,Bachelor's,14700,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-113,Data Analyst,Makkah,Telecom,Mid-size,Entry-Level,Bachelor's,9600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-114,Business Analyst,Makkah,Government,Enterprise,Junior,Bachelor's,11000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-115,Reporting Analyst,Jeddah,Retail,Enterprise,Mid-Level,Bachelor's,11300,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-116,Data Scientist,Makkah,Retail,Enterprise,Junior,Master's,16900,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-117,Business Analyst,Dammam,Banking,Mid-size,Mid-Level,Bachelor's,15500,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-118,Business Analyst,Riyadh,Energy,Enterprise,Junior,Bachelor's,16200,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-119,Data Analyst,Khobar,Telecom,Mid-size,Junior,Bachelor's,12400,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-120,Data Analyst,Dammam,Banking,Enterprise,Mid-Level,Bachelor's,15800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-121,Reporting Analyst,Jeddah,Retail,Startup,Junior,Master's,10700,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",False
+SJM-122,Data Analyst,Dammam,Government,Enterprise,Junior,Bachelor's,12300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-123,Reporting Analyst,Khobar,Telecom,Enterprise,Mid-Level,Bachelor's,14800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-124,BI Analyst,Jeddah,Government,Mid-size,Mid-Level,Master's,16300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-125,Data Scientist,Madinah,Banking,Enterprise,Entry-Level,Bachelor's,14000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-126,Data Analyst,Jeddah,Healthcare,Enterprise,Mid-Level,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-127,BI Analyst,Riyadh,Energy,Enterprise,Entry-Level,Bachelor's,14900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-128,BI Analyst,Makkah,Technology,Mid-size,Entry-Level,Bachelor's,12400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-129,Business Analyst,Riyadh,Telecom,Enterprise,Junior,Bachelor's,14800,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",False
+SJM-130,Reporting Analyst,Riyadh,Energy,Enterprise,Entry-Level,Bachelor's,11400,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-131,Data Analyst,Jeddah,Retail,Enterprise,Entry-Level,Bachelor's,10000,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Tableau",False
+SJM-132,Data Scientist,Jeddah,Retail,Startup,Junior,Bachelor's,13800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-133,Business Analyst,Khobar,Energy,Mid-size,Entry-Level,Bachelor's,13000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL",True
+SJM-134,Data Analyst,Madinah,Technology,Enterprise,Entry-Level,Bachelor's,10600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-135,Reporting Analyst,Madinah,Retail,Mid-size,Entry-Level,Bachelor's,7100,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-136,Data Scientist,Khobar,Energy,Startup,Entry-Level,Bachelor's,15000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-137,Data Scientist,Madinah,Retail,Enterprise,Junior,Bachelor's,12900,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-138,BI Analyst,Riyadh,Retail,Startup,Entry-Level,Master's,12300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-139,Business Analyst,Jeddah,Energy,Startup,Entry-Level,Bachelor's,11000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-140,Data Analyst,Riyadh,Technology,Startup,Entry-Level,Master's,11400,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-141,Data Analyst,Riyadh,Healthcare,Enterprise,Entry-Level,Master's,11200,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Tableau",True
+SJM-142,BI Analyst,Riyadh,Banking,Enterprise,Mid-Level,Bachelor's,19000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-143,Data Analyst,Makkah,Telecom,Enterprise,Mid-Level,Bachelor's,13900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Tableau",False
+SJM-144,BI Analyst,Riyadh,Government,Mid-size,Entry-Level,Master's,14700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-145,Business Analyst,Dammam,Government,Enterprise,Mid-Level,Bachelor's,16600,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",False
+SJM-146,BI Analyst,Dammam,Retail,Mid-size,Junior,Bachelor's,11400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-147,Business Analyst,Riyadh,Energy,Enterprise,Entry-Level,Master's,15900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-148,Reporting Analyst,Jeddah,Technology,Enterprise,Entry-Level,Bachelor's,12000,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-149,Business Analyst,Jeddah,Retail,Enterprise,Junior,Master's,15000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-150,Data Analyst,Riyadh,Retail,Mid-size,Junior,Master's,11500,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-151,BI Analyst,Madinah,Telecom,Mid-size,Entry-Level,Bachelor's,10800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-152,BI Analyst,Jeddah,Telecom,Mid-size,Entry-Level,Bachelor's,12600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-153,Reporting Analyst,Riyadh,Energy,Mid-size,Junior,Bachelor's,12500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL",False
+SJM-154,Data Analyst,Jeddah,Government,Mid-size,Entry-Level,Bachelor's,8600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-155,Reporting Analyst,Jeddah,Banking,Enterprise,Entry-Level,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",True
+SJM-156,Business Analyst,Makkah,Retail,Startup,Mid-Level,Bachelor's,12200,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",False
+SJM-157,Data Analyst,Riyadh,Technology,Startup,Junior,Master's,13000,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Statistics",True
+SJM-158,Reporting Analyst,Riyadh,Healthcare,Mid-size,Junior,Master's,12900,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-159,Data Scientist,Makkah,Technology,Enterprise,Mid-Level,Bachelor's,20000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-160,Reporting Analyst,Makkah,Energy,Enterprise,Junior,Bachelor's,11700,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",True
+SJM-161,Data Analyst,Khobar,Healthcare,Mid-size,Mid-Level,Bachelor's,13600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-162,Reporting Analyst,Riyadh,Healthcare,Enterprise,Mid-Level,Bachelor's,13800,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Statistics",True
+SJM-163,Data Analyst,Dammam,Healthcare,Mid-size,Junior,Bachelor's,12600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-164,Reporting Analyst,Jeddah,Energy,Startup,Entry-Level,Bachelor's,9900,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",True
+SJM-165,Data Analyst,Dammam,Energy,Enterprise,Junior,Bachelor's,13100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-166,Data Analyst,Jeddah,Retail,Mid-size,Junior,Master's,12200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-167,Data Analyst,Dammam,Retail,Mid-size,Junior,Bachelor's,10000,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-168,Data Analyst,Madinah,Energy,Enterprise,Junior,Bachelor's,12200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-169,BI Analyst,Dammam,Energy,Enterprise,Junior,Bachelor's,15200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-170,Business Analyst,Riyadh,Government,Startup,Entry-Level,Bachelor's,12900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-171,Data Analyst,Riyadh,Healthcare,Mid-size,Mid-Level,Bachelor's,13200,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-172,Business Analyst,Riyadh,Government,Mid-size,Junior,Bachelor's,12300,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Statistics",False
+SJM-173,Data Scientist,Khobar,Technology,Mid-size,Mid-Level,Bachelor's,20400,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-174,Business Analyst,Riyadh,Healthcare,Enterprise,Junior,Bachelor's,14600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-175,Data Analyst,Khobar,Retail,Enterprise,Junior,Bachelor's,9300,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Tableau",False
+SJM-176,Reporting Analyst,Khobar,Healthcare,Startup,Entry-Level,Bachelor's,9400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-177,BI Analyst,Madinah,Telecom,Mid-size,Mid-Level,Master's,16700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-178,Data Analyst,Jeddah,Telecom,Mid-size,Junior,Master's,12200,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-179,Data Analyst,Riyadh,Energy,Enterprise,Junior,Master's,15100,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-180,Data Scientist,Riyadh,Government,Enterprise,Entry-Level,Bachelor's,15300,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-181,Reporting Analyst,Riyadh,Energy,Mid-size,Junior,Bachelor's,10700,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",True
+SJM-182,Data Analyst,Jeddah,Retail,Enterprise,Entry-Level,Bachelor's,10900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-183,Business Analyst,Jeddah,Energy,Enterprise,Junior,Master's,16300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-184,Data Analyst,Khobar,Technology,Startup,Junior,Bachelor's,12800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-185,Data Scientist,Madinah,Banking,Enterprise,Entry-Level,Bachelor's,15300,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-186,Business Analyst,Riyadh,Banking,Enterprise,Junior,Bachelor's,16000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-187,Data Analyst,Makkah,Banking,Enterprise,Mid-Level,Bachelor's,15600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-188,BI Analyst,Khobar,Government,Enterprise,Mid-Level,Bachelor's,16700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-189,Data Scientist,Madinah,Retail,Enterprise,Junior,Bachelor's,14000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-190,BI Analyst,Jeddah,Banking,Enterprise,Mid-Level,Bachelor's,18200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-191,Data Analyst,Khobar,Retail,Enterprise,Mid-Level,Master's,14600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-192,Reporting Analyst,Riyadh,Healthcare,Mid-size,Mid-Level,Bachelor's,13100,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",False
+SJM-193,Data Scientist,Riyadh,Telecom,Enterprise,Junior,Master's,19300,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-194,BI Analyst,Jeddah,Technology,Startup,Junior,Master's,14100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-195,Data Analyst,Khobar,Retail,Enterprise,Mid-Level,Master's,15000,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-196,Data Analyst,Riyadh,Banking,Startup,Mid-Level,Bachelor's,13300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-197,Business Analyst,Jeddah,Technology,Mid-size,Mid-Level,Bachelor's,15600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-198,Reporting Analyst,Makkah,Energy,Startup,Entry-Level,Bachelor's,8100,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-199,Reporting Analyst,Riyadh,Technology,Enterprise,Junior,Bachelor's,13100,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-200,BI Analyst,Jeddah,Telecom,Mid-size,Junior,Bachelor's,13000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-201,Data Analyst,Riyadh,Banking,Enterprise,Junior,Bachelor's,14900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-202,Data Analyst,Dammam,Government,Mid-size,Junior,Bachelor's,12400,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-203,BI Analyst,Riyadh,Retail,Enterprise,Junior,Bachelor's,12900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-204,Data Analyst,Riyadh,Healthcare,Enterprise,Entry-Level,Master's,12400,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-205,Business Analyst,Dammam,Retail,Enterprise,Junior,Bachelor's,12200,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL",False
+SJM-206,Reporting Analyst,Jeddah,Technology,Mid-size,Mid-Level,Bachelor's,12000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL",True
+SJM-207,Business Analyst,Khobar,Banking,Enterprise,Entry-Level,Bachelor's,13400,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-208,Data Analyst,Dammam,Telecom,Mid-size,Mid-Level,Bachelor's,13800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-209,Reporting Analyst,Riyadh,Energy,Mid-size,Entry-Level,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-210,Business Analyst,Dammam,Energy,Enterprise,Entry-Level,Bachelor's,13800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL",False
+SJM-211,Reporting Analyst,Madinah,Government,Mid-size,Junior,Bachelor's,9600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL",False
+SJM-212,Data Scientist,Riyadh,Healthcare,Startup,Entry-Level,Master's,13900,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-213,Data Scientist,Dammam,Banking,Mid-size,Entry-Level,Bachelor's,15200,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-214,Data Analyst,Dammam,Energy,Enterprise,Entry-Level,Bachelor's,11100,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-215,Data Scientist,Madinah,Retail,Startup,Entry-Level,Master's,12100,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-216,BI Analyst,Khobar,Retail,Enterprise,Mid-Level,Bachelor's,17000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-217,Data Analyst,Riyadh,Technology,Enterprise,Entry-Level,Bachelor's,11700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-218,Data Scientist,Khobar,Government,Startup,Junior,Bachelor's,14800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-219,Business Analyst,Jeddah,Banking,Startup,Mid-Level,Master's,17300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-220,Data Analyst,Khobar,Technology,Enterprise,Mid-Level,Master's,17500,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-221,BI Analyst,Dammam,Retail,Enterprise,Entry-Level,Bachelor's,12200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-222,Business Analyst,Jeddah,Technology,Mid-size,Mid-Level,Bachelor's,16300,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-223,Business Analyst,Makkah,Healthcare,Enterprise,Entry-Level,Master's,11000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",False
+SJM-224,Reporting Analyst,Riyadh,Energy,Enterprise,Mid-Level,Bachelor's,17500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Machine Learning, SQL, Tableau",False
+SJM-225,Data Analyst,Riyadh,Technology,Enterprise,Junior,Master's,14100,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-226,Data Analyst,Madinah,Government,Startup,Entry-Level,Bachelor's,8800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-227,Business Analyst,Jeddah,Technology,Mid-size,Entry-Level,Bachelor's,12600,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL",True
+SJM-228,Data Analyst,Riyadh,Healthcare,Mid-size,Junior,Bachelor's,11600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-229,Data Analyst,Jeddah,Energy,Mid-size,Entry-Level,Bachelor's,12100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-230,Data Analyst,Khobar,Technology,Enterprise,Mid-Level,Master's,16500,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-231,Data Analyst,Riyadh,Technology,Startup,Junior,Master's,12300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-232,Business Analyst,Riyadh,Healthcare,Startup,Mid-Level,Bachelor's,14900,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Statistics",False
+SJM-233,Business Analyst,Makkah,Technology,Mid-size,Junior,Master's,13600,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-234,Business Analyst,Jeddah,Retail,Enterprise,Entry-Level,Bachelor's,11200,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-235,BI Analyst,Riyadh,Technology,Enterprise,Entry-Level,Bachelor's,15900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-236,Data Analyst,Madinah,Technology,Mid-size,Mid-Level,Bachelor's,13700,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-237,Data Scientist,Riyadh,Retail,Enterprise,Mid-Level,Bachelor's,18800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-238,Data Analyst,Riyadh,Government,Mid-size,Junior,Bachelor's,12000,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-239,Data Analyst,Riyadh,Telecom,Mid-size,Entry-Level,Bachelor's,10400,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-240,Business Analyst,Riyadh,Banking,Mid-size,Entry-Level,Bachelor's,13500,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-241,Reporting Analyst,Jeddah,Banking,Mid-size,Junior,Bachelor's,12300,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-242,Business Analyst,Khobar,Energy,Enterprise,Junior,Master's,15000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-243,Data Analyst,Khobar,Energy,Enterprise,Junior,Master's,15100,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-244,Data Analyst,Jeddah,Retail,Mid-size,Junior,Master's,11500,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-245,Data Analyst,Jeddah,Banking,Mid-size,Entry-Level,Bachelor's,13200,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-246,Business Analyst,Madinah,Telecom,Enterprise,Mid-Level,Master's,15400,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-247,Business Analyst,Riyadh,Banking,Enterprise,Entry-Level,Master's,15900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-248,Data Analyst,Dammam,Banking,Startup,Junior,Bachelor's,11100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-249,Reporting Analyst,Riyadh,Government,Mid-size,Junior,Bachelor's,10400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-250,Business Analyst,Madinah,Banking,Mid-size,Mid-Level,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-251,Data Analyst,Jeddah,Telecom,Mid-size,Entry-Level,Master's,12000,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-252,Data Analyst,Dammam,Technology,Enterprise,Entry-Level,Master's,12400,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-253,Data Analyst,Jeddah,Telecom,Mid-size,Entry-Level,Bachelor's,10900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-254,Data Analyst,Dammam,Healthcare,Mid-size,Junior,Bachelor's,11300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-255,Business Analyst,Madinah,Healthcare,Enterprise,Entry-Level,Bachelor's,11500,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL",True
+SJM-256,BI Analyst,Riyadh,Telecom,Enterprise,Junior,Bachelor's,15800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-257,Data Scientist,Madinah,Retail,Startup,Junior,Bachelor's,14000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-258,Business Analyst,Riyadh,Telecom,Enterprise,Entry-Level,Bachelor's,13300,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-259,BI Analyst,Dammam,Banking,Mid-size,Entry-Level,Bachelor's,12700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-260,Reporting Analyst,Khobar,Technology,Mid-size,Junior,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-261,BI Analyst,Madinah,Healthcare,Enterprise,Entry-Level,Bachelor's,11300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-262,Data Analyst,Khobar,Energy,Enterprise,Entry-Level,Bachelor's,13200,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-263,Reporting Analyst,Riyadh,Healthcare,Mid-size,Junior,Bachelor's,11900,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Statistics",True
+SJM-264,Business Analyst,Dammam,Healthcare,Enterprise,Junior,Bachelor's,13700,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-265,Data Analyst,Khobar,Banking,Startup,Mid-Level,Master's,15400,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-266,Reporting Analyst,Riyadh,Retail,Mid-size,Mid-Level,Bachelor's,13000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-267,Business Analyst,Madinah,Technology,Enterprise,Entry-Level,Bachelor's,11900,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",False
+SJM-268,Data Analyst,Riyadh,Telecom,Startup,Mid-Level,Bachelor's,15000,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-269,Data Analyst,Riyadh,Technology,Startup,Entry-Level,Bachelor's,11900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-270,BI Analyst,Khobar,Energy,Startup,Junior,Master's,14500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-271,BI Analyst,Dammam,Banking,Enterprise,Mid-Level,Master's,17800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-272,Data Analyst,Riyadh,Retail,Enterprise,Mid-Level,Bachelor's,16300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-273,Data Analyst,Jeddah,Retail,Startup,Mid-Level,Bachelor's,11600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-274,Reporting Analyst,Khobar,Technology,Enterprise,Junior,Bachelor's,12200,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-275,BI Analyst,Riyadh,Telecom,Enterprise,Junior,Bachelor's,15600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-276,Data Analyst,Riyadh,Retail,Mid-size,Junior,Bachelor's,11000,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-277,BI Analyst,Dammam,Government,Enterprise,Mid-Level,Bachelor's,15400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-278,Data Analyst,Jeddah,Retail,Enterprise,Junior,Bachelor's,9900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-279,Data Scientist,Dammam,Telecom,Mid-size,Junior,Master's,15900,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-280,Data Analyst,Riyadh,Energy,Mid-size,Junior,Master's,15900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-281,Data Analyst,Khobar,Retail,Mid-size,Mid-Level,Bachelor's,11300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-282,Business Analyst,Riyadh,Telecom,Enterprise,Junior,Bachelor's,15700,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL",False
+SJM-283,Data Analyst,Dammam,Energy,Enterprise,Entry-Level,Bachelor's,11300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-284,BI Analyst,Jeddah,Telecom,Mid-size,Entry-Level,Bachelor's,11200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-285,Data Analyst,Dammam,Telecom,Startup,Junior,Bachelor's,10700,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Tableau",False
+SJM-286,Reporting Analyst,Madinah,Telecom,Enterprise,Junior,Bachelor's,12200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Machine Learning, SQL",False
+SJM-287,Data Scientist,Jeddah,Technology,Startup,Junior,Bachelor's,17000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-288,Business Analyst,Jeddah,Retail,Enterprise,Entry-Level,Bachelor's,11100,"Data Cleaning, Data Visualization, Excel, Power BI, SQL, Statistics",False
+SJM-289,Data Analyst,Dammam,Retail,Startup,Entry-Level,Bachelor's,9800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-290,Data Scientist,Jeddah,Government,Mid-size,Entry-Level,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-291,Data Analyst,Dammam,Government,Enterprise,Junior,Bachelor's,13300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-292,Reporting Analyst,Riyadh,Government,Enterprise,Entry-Level,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",False
+SJM-293,Data Scientist,Madinah,Banking,Enterprise,Entry-Level,Bachelor's,13900,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-294,Reporting Analyst,Makkah,Telecom,Mid-size,Junior,Bachelor's,11800,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-295,BI Analyst,Jeddah,Banking,Enterprise,Mid-Level,Bachelor's,18200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-296,Data Analyst,Madinah,Retail,Enterprise,Mid-Level,Master's,13800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-297,Business Analyst,Dammam,Banking,Mid-size,Junior,Bachelor's,12900,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL, Statistics",True
+SJM-298,Data Scientist,Riyadh,Retail,Enterprise,Mid-Level,Bachelor's,20500,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-299,Data Scientist,Khobar,Telecom,Enterprise,Mid-Level,Master's,23600,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-300,Business Analyst,Makkah,Healthcare,Mid-size,Junior,Bachelor's,11000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-301,Data Analyst,Jeddah,Energy,Enterprise,Mid-Level,Bachelor's,14700,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-302,Business Analyst,Jeddah,Retail,Enterprise,Junior,Bachelor's,11800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL",False
+SJM-303,Data Analyst,Dammam,Government,Enterprise,Entry-Level,Bachelor's,10800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-304,Business Analyst,Madinah,Banking,Enterprise,Mid-Level,Bachelor's,15800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Power BI, SQL, Tableau",False
+SJM-305,BI Analyst,Jeddah,Retail,Enterprise,Entry-Level,Bachelor's,13500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-306,Data Analyst,Riyadh,Technology,Mid-size,Junior,Master's,13200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-307,Data Scientist,Jeddah,Technology,Mid-size,Entry-Level,Bachelor's,15200,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-308,Reporting Analyst,Riyadh,Energy,Mid-size,Junior,Bachelor's,13800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-309,Data Analyst,Madinah,Retail,Startup,Mid-Level,Bachelor's,10600,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-310,Data Analyst,Riyadh,Technology,Enterprise,Entry-Level,Master's,14700,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-311,BI Analyst,Jeddah,Energy,Enterprise,Mid-Level,Bachelor's,19000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-312,Business Analyst,Dammam,Technology,Enterprise,Entry-Level,Bachelor's,12600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-313,BI Analyst,Jeddah,Technology,Startup,Entry-Level,Bachelor's,12900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-314,BI Analyst,Dammam,Government,Mid-size,Mid-Level,Bachelor's,13900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-315,Reporting Analyst,Madinah,Technology,Enterprise,Junior,Bachelor's,10300,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",False
+SJM-316,Data Analyst,Riyadh,Government,Enterprise,Entry-Level,Bachelor's,12300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-317,Data Analyst,Dammam,Technology,Mid-size,Junior,Bachelor's,12500,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-318,Reporting Analyst,Makkah,Telecom,Mid-size,Entry-Level,Bachelor's,9800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Statistics",False
+SJM-319,Data Scientist,Dammam,Healthcare,Enterprise,Entry-Level,Bachelor's,15000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-320,Business Analyst,Jeddah,Energy,Mid-size,Junior,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-321,Data Analyst,Jeddah,Banking,Enterprise,Junior,Bachelor's,13300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-322,Data Scientist,Jeddah,Telecom,Mid-size,Junior,Bachelor's,16200,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-323,Business Analyst,Dammam,Technology,Enterprise,Entry-Level,Bachelor's,11600,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-324,Data Analyst,Jeddah,Technology,Mid-size,Entry-Level,Bachelor's,11500,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-325,BI Analyst,Riyadh,Healthcare,Enterprise,Entry-Level,Bachelor's,14500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-326,BI Analyst,Makkah,Banking,Startup,Mid-Level,Bachelor's,15200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-327,Reporting Analyst,Riyadh,Healthcare,Mid-size,Junior,Master's,12400,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Statistics",False
+SJM-328,BI Analyst,Riyadh,Retail,Enterprise,Junior,Bachelor's,14900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-329,BI Analyst,Makkah,Banking,Startup,Entry-Level,Bachelor's,10200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-330,BI Analyst,Jeddah,Healthcare,Enterprise,Entry-Level,Bachelor's,12700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-331,Data Analyst,Riyadh,Telecom,Mid-size,Entry-Level,Master's,11900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-332,Data Analyst,Jeddah,Technology,Enterprise,Mid-Level,Master's,16800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-333,Business Analyst,Riyadh,Energy,Startup,Entry-Level,Bachelor's,12000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-334,BI Analyst,Riyadh,Energy,Mid-size,Junior,Bachelor's,16100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-335,BI Analyst,Riyadh,Banking,Mid-size,Mid-Level,Bachelor's,19700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-336,BI Analyst,Riyadh,Government,Startup,Junior,Bachelor's,13800,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-337,Data Analyst,Dammam,Government,Enterprise,Junior,Bachelor's,11700,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Statistics",True
+SJM-338,Reporting Analyst,Riyadh,Retail,Enterprise,Junior,Bachelor's,12400,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-339,BI Analyst,Riyadh,Energy,Startup,Mid-Level,Bachelor's,17400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-340,Data Analyst,Khobar,Energy,Startup,Junior,Bachelor's,10200,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-341,BI Analyst,Riyadh,Healthcare,Startup,Entry-Level,Master's,12400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-342,Data Analyst,Riyadh,Healthcare,Enterprise,Mid-Level,Bachelor's,14900,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-343,Reporting Analyst,Khobar,Banking,Mid-size,Mid-Level,Master's,15300,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-344,Data Analyst,Madinah,Retail,Startup,Junior,Bachelor's,8600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-345,Data Analyst,Riyadh,Banking,Mid-size,Entry-Level,Master's,12800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-346,Data Analyst,Khobar,Healthcare,Mid-size,Entry-Level,Master's,9700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Statistics, Tableau",False
+SJM-347,Data Analyst,Dammam,Technology,Mid-size,Entry-Level,Bachelor's,10400,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-348,Data Analyst,Riyadh,Government,Mid-size,Junior,Master's,13300,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-349,Business Analyst,Riyadh,Banking,Enterprise,Entry-Level,Master's,15800,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-350,BI Analyst,Riyadh,Government,Mid-size,Mid-Level,Bachelor's,15500,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-351,Business Analyst,Dammam,Banking,Startup,Junior,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Tableau",True
+SJM-352,Data Analyst,Dammam,Healthcare,Startup,Junior,Master's,10700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-353,Data Analyst,Khobar,Retail,Enterprise,Entry-Level,Bachelor's,10600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-354,Reporting Analyst,Riyadh,Healthcare,Enterprise,Junior,Bachelor's,12900,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-355,Data Analyst,Dammam,Government,Mid-size,Entry-Level,Bachelor's,10100,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-356,Reporting Analyst,Riyadh,Energy,Enterprise,Entry-Level,Bachelor's,11500,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-357,BI Analyst,Makkah,Government,Enterprise,Mid-Level,Bachelor's,15600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-358,Data Analyst,Jeddah,Technology,Enterprise,Entry-Level,Bachelor's,12000,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-359,Data Scientist,Madinah,Banking,Mid-size,Entry-Level,Bachelor's,13400,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-360,BI Analyst,Jeddah,Banking,Startup,Entry-Level,Master's,13700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-361,BI Analyst,Makkah,Energy,Mid-size,Entry-Level,Bachelor's,10900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-362,BI Analyst,Khobar,Telecom,Startup,Mid-Level,Bachelor's,15700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-363,Data Analyst,Khobar,Technology,Enterprise,Junior,Bachelor's,13700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-364,Business Analyst,Jeddah,Banking,Mid-size,Entry-Level,Bachelor's,12500,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-365,Data Analyst,Jeddah,Energy,Enterprise,Junior,Master's,15500,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-366,Data Scientist,Madinah,Technology,Mid-size,Mid-Level,Bachelor's,18200,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-367,Data Scientist,Riyadh,Banking,Mid-size,Junior,Bachelor's,17900,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-368,Business Analyst,Riyadh,Technology,Mid-size,Entry-Level,Bachelor's,13600,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-369,BI Analyst,Khobar,Technology,Enterprise,Mid-Level,Bachelor's,18900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-370,BI Analyst,Riyadh,Technology,Startup,Entry-Level,Bachelor's,13200,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-371,Business Analyst,Jeddah,Government,Enterprise,Junior,Bachelor's,14400,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-372,Business Analyst,Jeddah,Retail,Startup,Mid-Level,Bachelor's,13400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",True
+SJM-373,Data Analyst,Dammam,Energy,Startup,Mid-Level,Master's,15800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-374,Data Analyst,Khobar,Telecom,Startup,Junior,Bachelor's,10900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Tableau",False
+SJM-375,Reporting Analyst,Jeddah,Government,Enterprise,Junior,Bachelor's,11000,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",True
+SJM-376,Data Analyst,Jeddah,Telecom,Mid-size,Junior,Master's,13100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-377,Data Scientist,Riyadh,Banking,Mid-size,Junior,Bachelor's,19500,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-378,Business Analyst,Riyadh,Retail,Startup,Junior,Bachelor's,11000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-379,Business Analyst,Dammam,Banking,Mid-size,Junior,Bachelor's,13300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-380,BI Analyst,Riyadh,Healthcare,Enterprise,Entry-Level,Master's,14100,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-381,Data Analyst,Makkah,Banking,Mid-size,Mid-Level,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Tableau",True
+SJM-382,BI Analyst,Dammam,Telecom,Mid-size,Entry-Level,Bachelor's,12700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-383,Data Scientist,Makkah,Government,Startup,Entry-Level,Bachelor's,12800,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-384,Business Analyst,Madinah,Government,Enterprise,Mid-Level,Bachelor's,14100,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Statistics",False
+SJM-385,Data Analyst,Riyadh,Government,Mid-size,Junior,Bachelor's,13300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-386,Data Analyst,Dammam,Technology,Startup,Junior,Bachelor's,10700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-387,Reporting Analyst,Riyadh,Energy,Startup,Junior,Bachelor's,10100,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL, Tableau",False
+SJM-388,Data Analyst,Riyadh,Technology,Mid-size,Mid-Level,Bachelor's,15100,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Tableau",False
+SJM-389,BI Analyst,Dammam,Government,Startup,Mid-Level,Bachelor's,13900,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-390,Data Scientist,Jeddah,Telecom,Enterprise,Entry-Level,Bachelor's,15600,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-391,Data Analyst,Riyadh,Energy,Enterprise,Junior,Bachelor's,15000,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-392,Business Analyst,Madinah,Retail,Enterprise,Junior,Bachelor's,11700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL, Tableau",False
+SJM-393,BI Analyst,Khobar,Energy,Mid-size,Junior,Bachelor's,13000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-394,Data Scientist,Khobar,Energy,Enterprise,Junior,Master's,21600,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-395,BI Analyst,Khobar,Healthcare,Enterprise,Junior,Bachelor's,14300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-396,BI Analyst,Makkah,Banking,Enterprise,Mid-Level,Bachelor's,16400,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-397,Business Analyst,Madinah,Banking,Startup,Junior,Bachelor's,12600,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-398,Data Analyst,Jeddah,Energy,Startup,Mid-Level,Bachelor's,13400,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-399,Data Analyst,Madinah,Energy,Enterprise,Entry-Level,Bachelor's,11300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-400,Data Analyst,Madinah,Retail,Enterprise,Junior,Bachelor's,11000,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-401,Business Analyst,Makkah,Retail,Mid-size,Mid-Level,Bachelor's,13200,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-402,Reporting Analyst,Jeddah,Retail,Mid-size,Mid-Level,Bachelor's,10800,"Dashboarding, Data Cleaning, Data Visualization, Excel, SQL",False
+SJM-403,Business Analyst,Madinah,Healthcare,Enterprise,Entry-Level,Bachelor's,11000,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-404,Data Scientist,Makkah,Telecom,Mid-size,Junior,Bachelor's,15400,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-405,Data Analyst,Khobar,Retail,Startup,Mid-Level,Master's,12700,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-406,Data Analyst,Jeddah,Telecom,Mid-size,Mid-Level,Bachelor's,12800,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-407,Data Analyst,Dammam,Healthcare,Enterprise,Mid-Level,Bachelor's,14800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-408,Data Analyst,Makkah,Government,Enterprise,Entry-Level,Bachelor's,10300,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL, Tableau",False
+SJM-409,BI Analyst,Dammam,Banking,Startup,Mid-Level,Bachelor's,15300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-410,Data Scientist,Riyadh,Healthcare,Enterprise,Junior,Bachelor's,18000,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",True
+SJM-411,Data Analyst,Khobar,Technology,Mid-size,Junior,Bachelor's,11400,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-412,Data Analyst,Riyadh,Telecom,Startup,Junior,Master's,11500,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-413,Reporting Analyst,Dammam,Technology,Mid-size,Junior,Bachelor's,12700,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-414,Data Analyst,Jeddah,Government,Enterprise,Mid-Level,Bachelor's,14700,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",True
+SJM-415,Data Scientist,Riyadh,Telecom,Mid-size,Entry-Level,Bachelor's,17700,"Data Cleaning, Data Visualization, Excel, Machine Learning, Python, SQL, Statistics",False
+SJM-416,BI Analyst,Jeddah,Government,Enterprise,Entry-Level,Bachelor's,13000,"Dashboarding, Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",False
+SJM-417,Data Analyst,Riyadh,Energy,Mid-size,Mid-Level,Bachelor's,16800,"Data Cleaning, Data Visualization, Excel, Python, SQL, Tableau",True
+SJM-418,Data Analyst,Riyadh,Banking,Mid-size,Mid-Level,Master's,18900,"Data Cleaning, Data Visualization, Excel, Power BI, Python, SQL",False
+SJM-419,Reporting Analyst,Madinah,Energy,Enterprise,Mid-Level,Master's,14300,"Dashboarding, Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
+SJM-420,Business Analyst,Khobar,Government,Enterprise,Mid-Level,Bachelor's,15500,"Data Cleaning, Data Visualization, Excel, Power BI, SQL",False
